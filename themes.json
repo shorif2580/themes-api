@@ -1,0 +1,84 @@
+{
+  "themes": [
+    {
+      "name": "Neon Blue",
+      "type": "neon",
+      "primary": "#00E5FF",
+      "accent": "#2979FF",
+      "background": "https://i.ibb.co/8XhZk6K/neon-blue.jpg",
+      "recommended_for": ["charging", "night"]
+    },
+    {
+      "name": "Cyber Purple",
+      "type": "neon",
+      "primary": "#E040FB",
+      "accent": "#7C4DFF",
+      "background": "https://i.ibb.co/2d8ZpQk/cyber-purple.jpg",
+      "recommended_for": ["night", "gaming"]
+    },
+    {
+      "name": "AMOLED Dark",
+      "type": "amoled",
+      "primary": "#000000",
+      "accent": "#FF3D00",
+      "background": "",
+      "recommended_for": ["low_battery", "night"]
+    },
+    {
+      "name": "Electric Green",
+      "type": "charging",
+      "primary": "#00E676",
+      "accent": "#00C853",
+      "background": "https://i.ibb.co/7zj1c8z/electric-green.jpg",
+      "recommended_for": ["charging"]
+    },
+    {
+      "name": "Fire Red",
+      "type": "alert",
+      "primary": "#FF1744",
+      "accent": "#D50000",
+      "background": "https://i.ibb.co/yW4Gz7s/fire-red.jpg",
+      "recommended_for": ["overheat", "low_battery"]
+    },
+    {
+      "name": "Cool Blue",
+      "type": "cool",
+      "primary": "#448AFF",
+      "accent": "#2962FF",
+      "background": "https://i.ibb.co/q9n3cZ1/cool-blue.jpg",
+      "recommended_for": ["normal", "day"]
+    },
+    {
+      "name": "Sunset Gradient",
+      "type": "gradient",
+      "primary": "#FF6D00",
+      "accent": "#FFAB00",
+      "background": "https://i.ibb.co/F0zP7xk/sunset.jpg",
+      "recommended_for": ["evening"]
+    },
+    {
+      "name": "Glass Light",
+      "type": "glass",
+      "primary": "#FFFFFF",
+      "accent": "#00B0FF",
+      "background": "https://i.ibb.co/6bQ8K0p/glass-light.jpg",
+      "recommended_for": ["day"]
+    },
+    {
+      "name": "Midnight Black",
+      "type": "dark",
+      "primary": "#121212",
+      "accent": "#BB86FC",
+      "background": "",
+      "recommended_for": ["night"]
+    },
+    {
+      "name": "Cyberpunk Mix",
+      "type": "cyberpunk",
+      "primary": "#00FFFF",
+      "accent": "#FF00FF",
+      "background": "https://i.ibb.co/z5k9hXn/cyberpunk.jpg",
+      "recommended_for": ["charging", "gaming", "night"]
+    }
+  ]
+}
