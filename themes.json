@@ -1,0 +1,81 @@
+{
+  "themes": [
+    {
+      "name": "Sunset Gradient",
+      "type": "light",
+      "primary": "#FF7043",
+      "accent": "#FFCA28",
+      "background": "https://images.unsplash.com/photo-1773416498756-81ba5cf8ec82?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Cyber Purple",
+      "type": "dark",
+      "primary": "#1A0B2E",
+      "accent": "#9C27B0",
+      "background": "https://images.unsplash.com/photo-1557103224-66837249473e?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "AMOLED Dark",
+      "type": "dark",
+      "primary": "#000000",
+      "accent": "#222222",
+      "background": "https://images.unsplash.com/photo-1664229898355-61ce133d8f53?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Fire Red",
+      "type": "dark",
+      "primary": "#2B0000",
+      "accent": "#FF3D00",
+      "background": "https://images.unsplash.com/photo-1664229898355-61ce133d8f53?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Cool Blue",
+      "type": "light",
+      "primary": "#E3F2FD",
+      "accent": "#2196F3",
+      "background": "https://images.unsplash.com/photo-1664469173592-329fd59bcdc0?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Clean Light",
+      "type": "light",
+      "primary": "#FFFFFF",
+      "accent": "#90CAF9",
+      "background": "https://plus.unsplash.com/premium_photo-1701597957670-9c3595c036e8?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Nature Green",
+      "type": "light",
+      "primary": "#1B5E20",
+      "accent": "#4CAF50",
+      "background": "https://plus.unsplash.com/premium_photo-1700583712034-02559145500d?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Night Sky",
+      "type": "dark",
+      "primary": "#0D0D2B",
+      "accent": "#3F51B5",
+      "background": "https://images.unsplash.com/photo-1774266832118-3f102bcb1c93?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Golden Sunrise",
+      "type": "light",
+      "primary": "#FFA000",
+      "accent": "#FFD54F",
+      "background": "https://plus.unsplash.com/premium_photo-1784206746999-7af9aedaec52?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Abstract Gradient",
+      "type": "dark",
+      "primary": "#121212",
+      "accent": "#00BCD4",
+      "background": "https://images.unsplash.com/photo-1617202009609-74a52df21011?w=1080&h=1920&fit=crop"
+    },
+    {
+      "name": "Minimal Dark",
+      "type": "dark",
+      "primary": "#0A0A0A",
+      "accent": "#444444",
+      "background": "https://images.unsplash.com/photo-1546872003-917e15185482?w=1080&h=1920&fit=crop"
+    }
+  ]
+}
