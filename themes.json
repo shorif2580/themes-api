@@ -22,12 +22,12 @@
       "background": "https://images.unsplash.com/photo-1664229898355-61ce133d8f53?w=1080&h=1920&fit=crop"
     },
     {
-      "name": "Fire Red",
-      "type": "dark",
-      "primary": "#2B0000",
-      "accent": "#FF3D00",
-      "background": "https://images.unsplash.com/photo-1664229898355-61ce133d8f53?w=1080&h=1920&fit=crop"
-    },
+  "name": "Fire Red",
+  "type": "alert",
+  "primary": "#1A0000",
+  "accent": "#FF3D00",
+  "background": "https://i.ibb.co/DPQStkTX/file-000000009d6081fa949ca5ea43374856.png"
+},
     {
       "name": "Cool Blue",
       "type": "light",
@@ -76,13 +76,20 @@
       "primary": "#0A0A0A",
       "accent": "#444444",
       "background": "https://images.unsplash.com/photo-1546872003-917e15185482?w=1080&h=1920&fit=crop"
-    }
+    },
     {
        "name": "Savage Dark",
        "type": "dark",
        "primary": "#0A0A0A",
        "accent": "#D32F2F",
        "background": "https://i.ibb.co/HLMT9Vc0/1785445381948.jpg"
-    }
+    },
+    {
+  "name": "Misty Valley",
+  "type": "light",
+  "primary": "#90A4AE",
+  "accent": "#4DB6AC",
+  "background": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1080&h=1920&fit=crop"
+}
   ]
 }
